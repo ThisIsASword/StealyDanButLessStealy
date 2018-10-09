@@ -1,0 +1,3 @@
+"ID","Affects","Affect Inclusion","Affect Exclusion","Method","Radius","Duration","FX Banks","Params"
+"patchOver_BanditStealGems","Enemy",,,"StealGems",,50,,
+"patchOver_BanditStealConsumables","Self",,,"StealRandomConsumable",,,,
